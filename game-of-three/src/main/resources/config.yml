@@ -1,0 +1,9 @@
+requestTimeOut: 20
+noOfPlayers: 2
+server:
+  applicationConnectors:
+  - type: http 
+    port: 9000
+  adminConnectors:
+  - type: http
+    port: 9001
