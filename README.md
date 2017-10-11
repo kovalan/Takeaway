@@ -10,10 +10,10 @@ This game can be run in both auto mode and manual mode.  In order to run in manu
 ## STEPS
 1. Run game-of-three (server) first.
 2. Run game-of-three-client two times, one program for each player.
-3. If a client is run in manual mode, input consol values to continue with the game.
+3. If a client is run in manual mode, provide input in the console to continue with the game.
 
 ## Note:
-1. Please note though the program is designed for more than 2 players, it is not tested with more than 2 players.
+1. Though the program is designed for more than 2 players, it is not tested with more than 2 players.
 2. There is scope for further improvisation as currently the client program checks the server for status.  Instead we can make the server notify the client for any status change.
 
 
