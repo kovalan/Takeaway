@@ -5,7 +5,7 @@ Consists of Server program and the client program
 1. game-of-three (server)
 2. game-of-three-client (client)
 
-This game can be run in both auto mode and manual mode.  In order to run in manual mode, run the game-of-three-client with "true" as a run time program argument.
+This game can be run in both auto mode and manual mode.  In order to run in manual mode, run the game-of-three-client with "true" as a run time program argument.  Client programs sends a REST call to the server and server sends back the game response.
 
 ## STEPS
 1. Run game-of-three (server) first.
