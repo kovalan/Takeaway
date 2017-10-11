@@ -15,5 +15,6 @@ This game can be run in both auto mode and manual mode.  In order to run in manu
 ## Note:
 1. Though the program is designed for more than 2 players, it is not tested with more than 2 players.
 2. There is scope for further improvisation as currently the client program checks the server for status.  Instead we can make the server notify the client for any status change.
+3. "GameOfThreeResponse.java" class is repeated in both game-of-three and game-of-three-client.  Better approach would be to create a lib for model classes and share between the two programs.
 
 
